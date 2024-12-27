@@ -1,0 +1,2 @@
+# Software-Time-division-multiplexing-TDM-Hardware--Envelope-detector.-
+A multiplexing technique by which multiple data signals can be transmitted over a common communication  channel in different time slots is known as Time Division Multiplexing (TDM). The envelope detector essentially retrieves the varying amplitude signal  from  modulated carrier wave, which can  be further processed to recover original information
